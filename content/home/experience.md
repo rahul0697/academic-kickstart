@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-19"
   date_end = ""
   description = ""
+  """
   Recommendation System for IOT Users
   """
   [[experience]]
@@ -35,7 +36,8 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = ""
   description = ""
+  """
   FingerPrint Identification
-
+"""
 
 +++
