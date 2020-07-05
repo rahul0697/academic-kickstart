@@ -1,5 +1,7 @@
-widget = "experience"
+widget = "experiences"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50 
 
 # ... Put Your Section Options Here (title etc.) ...
 
