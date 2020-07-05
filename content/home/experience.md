@@ -1,4 +1,5 @@
-widget = "experiences"  # See https://sourcethemes.com/academic/docs/page-builder/
++++
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50 
@@ -28,3 +29,4 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+ +++
