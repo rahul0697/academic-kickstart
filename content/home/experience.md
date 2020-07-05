@@ -1,32 +1,52 @@
 +++
+# Experiences widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50 
+weight = 50  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+title = "Accomplish&shy;ments"
+subtitle = ""
 
-# Date format for experience
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "TensorFlow in Practice Specialization"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/CABA2MN9VZMZ"
+  date_start = "2020-06-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Convolutional Neural Networks in TensorFlow, Natural Language Processing in TensorFlow, Sequences, Time Series and Prediction"
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
- +++
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Natural Language Processing with Classification and Vector Spaces & Natural Language Processing with Probabilistic Models"
+  url = ""
+  certificate_url = "    https://www.coursera.org/account/accomplishments/certificate/7NT4EALUW425"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "Sentiment Analysis,  Machine Translation, Auto Correct, POS Tagging, Word2Vec, AutoComplete"
+  
+ [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Mathematics for Machine Learning: Linear Algebra & Mathematics for Machine Learning: PCA"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/TG78NJ6656AQ, https://www.coursera.org/account/accomplishments/certificate/G9YUX87ULVVQ"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "PCA, Linear Algebra"
+
+
++++
