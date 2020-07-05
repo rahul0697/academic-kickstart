@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Experience"
 subtitle = ""
 
 # Date format
@@ -17,36 +17,19 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "TensorFlow in Practice Specialization"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/CABA2MN9VZMZ"
-  date_start = "2020-06-01"
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
-  description = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Convolutional Neural Networks in TensorFlow, Natural Language Processing in TensorFlow, Sequences, Time Series and Prediction"
+  description = """
+  Responsibilities include:
   
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Natural Language Processing with Classification and Vector Spaces & Natural Language Processing with Probabilistic Models"
-  url = ""
-  certificate_url = "    https://www.coursera.org/account/accomplishments/certificate/7NT4EALUW425"
-  date_start = "2020-06-01"
-  date_end = ""
-  description = "Sentiment Analysis,  Machine Translation, Auto Correct, POS Tagging, Word2Vec, AutoComplete"
-  
- [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Mathematics for Machine Learning: Linear Algebra & Mathematics for Machine Learning: PCA"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/TG78NJ6656AQ, https://www.coursera.org/account/accomplishments/certificate/G9YUX87ULVVQ"
-  date_start = "2020-06-01"
-  date_end = ""
-  description = "PCA, Linear Algebra"
-
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 +++
