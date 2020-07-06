@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Senior Machine Learning Engineer"
+  company = "Samsung Research Institute Bengaluru"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bengaluru"
+  date_start = "2018-07-19"
   date_end = ""
   description = """
-  Responsibilities include:
+  Recommendation System
+  1. Develop data pre-processing and feature Extraction algorithms and modeling/pattern recognition algorithm by reflecting data characteristics.
+  2. Perform to optimise data and develop Perforance evaluation measures and evaluate.
+  3. Participate in managing computing server to  use algorithm that requires massive computing resources
   
-  * Analysing
-  * Modelling
-  * Deploying
+  
   """
 
 +++
