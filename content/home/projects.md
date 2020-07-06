@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Convolutional Neural Network"
+     tag = "Deep Learning, CNN"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -73,5 +73,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ Hello
+ 
 +++
 
