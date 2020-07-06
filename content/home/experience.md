@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   1. Develop data pre-processing and feature Extraction algorithms and modeling/pattern recognition algorithm by reflecting data characteristics.
   2. Perform to optimise data and develop Perforance evaluation measures and evaluate.
   3. Participate in managing computing server to  use algorithm that requires massive computing resources
+  Built a Feature Learning Automation (Generic engine) that significantly improves the performance of ML models.
   
   
   """
