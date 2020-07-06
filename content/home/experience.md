@@ -32,5 +32,18 @@ date_format = "Jan 2006"
   
   
   """
+  [[experience]]
+  title = "Research Trainee"
+  company = "Samsung Research Institute Noida"
+  company_url = "https://research.samsung.com/sri-n"
+  location = "Noida"
+  date_start = "2017-05-14"
+  date_end = ""
+  description = """
+  BioHashing of FingerPrint
+  1. Designed Two Factor Authentication System featuring fingerPrint data and tokenizer random number.
+  2. Performed BioHashing on features to make system secure,fast and error free.
+  """
+
 
 +++
