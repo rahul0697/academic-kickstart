@@ -21,6 +21,18 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "Deep Learning Specialization"
+  url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/ZF5S8U77EKBC"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Sequence Models"
+
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "TensorFlow in Practice Specialization"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/CABA2MN9VZMZ"
