@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://research.samsung.com/sri-n"
   location = "Noida"
   date_start = "2017-05-14"
-  date_end = ""
+  date_end = "2017-07-14"
   description = """
   BioHashing of FingerPrint
   1. Designed Two Factor Authentication System featuring fingerPrint data and tokenizer random number.
