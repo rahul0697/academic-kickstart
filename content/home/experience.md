@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Machine Learning Engineer"
   company = "Samsung Research Institute Bengaluru"
-  company_url = ""
+  company_url = "https://research.samsung.com/sri-b"
   location = "Bengaluru"
   date_start = "2018-07-19"
   date_end = ""
