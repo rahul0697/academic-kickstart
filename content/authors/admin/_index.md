@@ -60,4 +60,8 @@ user_groups:
 - Visitors
 ---
 
+I built up an enthusiasm for Machine Learning and Artificial Intelligence during the sophomore year of my college degree.
+As a consequence, I sought to grasp and apply the same principle of machine learning  and Deep Learning.
+At the time, I tried to understand the theory through extracurricular courses, mainly on Coursera and stanford Online.
+I am making the most of my current job to explore several avenues of Deep Learning.
 
