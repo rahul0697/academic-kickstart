@@ -74,12 +74,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-  [[portfolio]]
-  description = """
-  BioHashing of FingerPrint
-  1. Designed Two Factor Authentication System featuring fingerPrint data and tokenizer random number.
-  2. Performed BioHashing on features to make system secure,fast and error free.
-  """
- 
 +++
 
