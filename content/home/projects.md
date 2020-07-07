@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-   [[content.filter_button]]
-     name = "Convolutional Neural Network"
-     tag = "Deep Learning, CNN"
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,6 +73,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
- 
 +++
 
