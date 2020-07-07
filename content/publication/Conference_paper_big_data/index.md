@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: ''
+  url: ''
 url_pdf: https://ieeexplore.ieee.org/document/8262961
 url_code: ''
 url_dataset: ''
