@@ -74,13 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-  [[project]]
-  title = "Research Trainee"
-  company = "Samsung Research Institute Noida"
-  company_url = "https://research.samsung.com/sri-n"
-  location = "Noida"
-  date_start = "2017-05-14"
-  date_end = "2017-07-14"
+  [[portfolio]]
   description = """
   BioHashing of FingerPrint
   1. Designed Two Factor Authentication System featuring fingerPrint data and tokenizer random number.
